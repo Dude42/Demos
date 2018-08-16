@@ -1,7 +1,7 @@
 
 		/********************************#
 	   #   Inca's Matrix Demo				  #
-	  #	Licensed under MIT license  #
+	  #	Licensed under Mozilla license #
 	 #	 Eduardo de Lima Gouvea	  #
 	#********************************/
 
