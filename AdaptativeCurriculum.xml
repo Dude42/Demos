@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" lang=”en”?>
 <?xml-stylesheet type="text/xsl" href="CV.xsl"?>
-<xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <meta>
    <Title>Curriculum Vitae</Title>
    <keywords>developer, programmer, skilled</keywords>
 </meta>
+<nav>
+   <a href=”AdaptativeCurriculum.xml”>Adaptative Curriculum</a>
+   <a href=”d”>g</a>
+   <a href=”c”>r</a>
+</nav>
+<curriculum>
 <identification>
    <name>Eduardo</name> de Lima <lname>Gouvêa</lname>
    <selfInterview>Video Self-Interview //work in Progress</selfInterview>
    <personal><age id=”pAge”>28</age> <mesure >years</mesure> old, Single, no dependente.</personal>
 </identification>
-
 <contact>
 <link href=”f”>LinkedIn
 <email type=”personal”>isbr16@gmail.com</email>
@@ -194,9 +198,8 @@ This documment is in fact an continous development and integration exercise, and
    Note: Hidden usefulness
       <note>Like Role Playing Game master i got selfconfidence about my leadership to apply for high ranks, cause RPG masters must be able to create challanges and convice players to solve them having fun.And i created my own campaings, keeping control above requirements, flux, and objectives without suport matterial or tricks to reduce players freedom, allowing they to choose maximum possibilities that i could handle.</note>
       <note>Like barman, i got earlier about client behavoir, interest, and satisfaction. Keep an eye on them is essential to bussiness success, and this was a decisive factor to face our *concorrentes.</note>
-
+   </notes>
 <feedback>Please feel free to reply any feedback to my mail: critics, questions, job offers, so on…</feedback>
-
 </FAQ>
-</xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+</curriculum>
+</xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
