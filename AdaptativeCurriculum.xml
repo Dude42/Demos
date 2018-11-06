@@ -7,7 +7,7 @@
 </meta>
 <nav>
    <a href=”AdaptativeCurriculum.xml”>Adaptative Curriculum</a>
-   <a href=”d”>g</a>
+   <a href=”Home”>Home</a>
    <a href=”c”>r</a>
 </nav>
 <curriculum>
@@ -22,28 +22,27 @@
 Contact number (67)99841-0756
 </contact>
 <demo>
-   <repositorie>My code demo - 
-      <link href=”https://github.com/Dude42/Demos/”>C (ANSI)</link>,
-      <link href=”https://github.com/Dude42/Demos/blob/master/”>C ++ (ANSI)</link>,
-      <link href=”https://github.com/Dude42/Demos/”>CSS3</link>,
-      <link href=”https://github.com/Dude42/Demos/”>HTML5</link>,
-      <link href=”https://github.com/Dude42/Demos/”>Java ( J2EE )</link>,
-      <link href=”https://github.com/Dude42/Demos/”>JavaScript</link>,
-      <link href=”https://github.com/Dude42/Demos/”>Pascal</link>,
-      <link href=”https://github.com/Dude42/Demos/”>PHP5</link>,
-      <link href=”https://github.com/Dude42/Demos/”>Python3.5 (Twitter API)</link>,
-      <link href=”https://github.com/Dude42/Demos/”>R(TweetR, XTS)</link>,
-      <link href=”https://github.com/Dude42/Demos/”>Scala2.0</link>,
-      <link href=”https://github.com/Dude42/Demos/”>SQL (PL / SQL)</link>,
-      <link href=”https://github.com/Dude42/Demos/”>Swift</link>,
-      <link href=”https://github.com/Dude42/Demos/”>XQuery1.0</link>
-   </repositorie>
+   <repositories xmlns:xlink="http://www.w3.org/1999/xlink">My code demo - 
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>C (ANSI)</reposito>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/blob/master/”>C ++ (ANSI)</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>CSS3</repositoryk>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>HTML5</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>Java ( J2EE )</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>JavaScript</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>Pascal</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>PHP5</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>Python3.5 (Twitter API)</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>R(TweetR, XTS)</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>Scala2.0</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>SQL (PL / SQL)</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>Swift</repository>,
+      <repository xlink:type="simple" xlink:href=”https://github.com/Dude42/Demos/”>XQuery1.0</repository>
+   </repositories>
    <language>Text Reading Samples(hosted on YouTube):
       <link href=”https://youtu.be/cNpqE9xR3DY”>| English <expand>+</expand>
       <link href=”f”>| Espanol <expand>+</expand>
       <link href=”https://youtu.be/i3edVcoS3fg”>| Français <expand>+</expand>
-      <link href=”f”>| Português <expand>+</expand>
- |
+      <link href=”f”>| Português <expand>+</expand>|
    </language>
 </demo>
 
@@ -125,19 +124,6 @@ truco(2002-), table RPG master (2002-2003,2008), keyboard(2004-2007).
      <future>if i could: alpinismo, paintball, </future>
      </personal>
 </interest>
-Communication Capabilities:
-
-<language id=”langEN”>English (fluency - 70%, pronunciation - 50%, vocabulary - 30%)
-</language>
-<language id=”langFR”>French (fluency - 30%, pronunciation - 40%, vocabulary - 5%)
-</language>
-<language id=”langJP”>Japanese (fluency - 40%, pronunciation - 50%, vocabulary - 5%)
-</language>
-<language id=”langPT”>Portuguese: Native(grammar - 50%, oratory - 85%, vocabulary - 70%)
-</language>
-<language id=”langSP”>Spanish (fluency - 30%, pronunciation - 50%, vocabulary - 45%)
-</language>
-<future>Next german and italian.</future>
 
 Professional Experience:
 
@@ -158,6 +144,22 @@ Barman 1998-2007,informal.
    </regular>
    *Musical School Renata <city>Bauru</city>-<state>SP</state> •Keyboard 5/6 modules •2004-2007
    *UNESP <city>Bauru</city>-<state>SP</state> •Palestras de Astronomia
+   <comunication>
+   Communication Capabilities:
+   <languages>
+   <language id=”langEN”>English (fluency - 70%, pronunciation - 50%, vocabulary - 30%)
+   </language>
+   <language id=”langFR”>French (fluency - 30%, pronunciation - 40%, vocabulary - 5%)
+   </language>
+   <language id=”langJP”>Japanese (fluency - 40%, pronunciation - 50%, vocabulary - 5%)
+   </language>
+   <language id=”langPT”>Portuguese: Native(grammar - 50%, oratory - 85%, vocabulary - 70%)
+   </language>
+   <language id=”langSP”>Spanish (fluency - 30%, pronunciation - 50%, vocabulary - 45%)
+   </language>
+   </languages>
+   <future>Next german and italian.</future>
+</comunication>
    </courses>
 </education>
 <hiring>
