@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" lang=”en”?>
-<?xml-stylesheet type="text/xsl" href="CV.xsl"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml-stylesheet href="cv.css"?>
+
 <meta>
    <Title>Curriculum Vitae</Title>
    <keywords>developer, programmer, skilled</keywords>
@@ -204,4 +204,4 @@ This documment is in fact an continous development and integration exercise, and
 <feedback>Please feel free to reply any feedback to my mail: critics, questions, job offers, so on…</feedback>
 </FAQ>
 </curriculum>
-</xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
